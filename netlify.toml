@@ -1,0 +1,5 @@
+[build]
+  command = "php artisan build"
+  environment = { 
+    PHP_VERSION = "8.1"
+  }
