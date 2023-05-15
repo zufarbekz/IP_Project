@@ -1,5 +1,5 @@
 [build]
-  command = "php artisan build"
+  command = "npm run production"
   environment = { 
     PHP_VERSION = "8.1"
   }
